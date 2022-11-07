@@ -17,14 +17,11 @@ I have been into painting and writing from an early age. I completed my universi
 
       i. Graphic Design: - Photoshop - Illustrator - InDesign - Lightroom - CorelDraw - Procreate.
      ii. Web Development: - HTML CSS, Markdown, JavaScript. (Loading)
-     ii. Backend Development: - PHP.
+     ii. Backend Development: - PHP. (Loading)
     iii. Shell Scripting: - Bash programming.
      iv. 3D Design - Zbrush.
       v. UX/UI Design: - Adobe XD, Figma. (Loading)
-     vi. Virtualization: - VMWARE.
-
-
-
+ 
 
 <br><br>3.  **FUTURE VENTURES**<br>
 
