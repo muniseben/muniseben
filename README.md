@@ -43,7 +43,7 @@ I have been into painting and writing from an early age. I completed my universi
 
 
 
-<br><br>6. #️⃣ **REACH ME**<br>
+<br><br>6.  **REACH ME**<br>
 
 
 <div align="left">
