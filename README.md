@@ -1,4 +1,4 @@
-# ![Munise Ben Header](header-yellow.png)
+# ![Munise Ben Header](kck.png)
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 I have been into painting and writing from an early age. I completed my university education at Hacettepe University Faculty of Economics and Administrative Sciences in Ankara. During this whole process, I learned to use many digital design programs on my own. After graduation I had an opportunity to live and work in İstanbul as a designer. Now I live in Brussels. I decided to make everything digitally and I became a self-taught graphic designer. I have been learning software for a while.<br>
 
