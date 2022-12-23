@@ -16,8 +16,8 @@ I have been into painting and writing from an early age. I completed my universi
 <br><br> 2.  **DEVELOPMENT STACK**<br>
 
       i. Graphic Design: - Photoshop - Illustrator - InDesign - Lightroom - CorelDraw - Procreate.
-     ii. Web Development: - HTML CSS, Markdown, JavaScript. (Loading)
-     ii. Backend Development: - PHP. (Loading)
+     ii. Web Development: - HTML CSS, Markdown, JavaScript.
+     ii. Backend Development: - NodeJS - PostgreSQL.
     iii. Shell Scripting: - Bash programming.
      iv. 3D Design - Zbrush.
       v. UX/UI Design: - Adobe XD, Figma. (Loading)
@@ -25,6 +25,7 @@ I have been into painting and writing from an early age. I completed my universi
 
 <br><br>3.  **FUTURE VENTURES**<br>
 
+    -  Front-end Web Developer 
     -  Maybe IOS developer
     -  Maybe Scrum Master
     -  Travel more, draw more and read more
